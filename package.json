@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "apollo-link-state": "^0.4.2",
-    "apollo-server": "^2.6.9",
+    "apollo-server": "^2.14.2",
     "bcrypt": "^3.0.6",
     "btcpay": "github:btcpayserver/node-btcpay",
     "dotenv": "^6.2.0",
