@@ -23,7 +23,7 @@
   "dependencies": {
     "apollo-link-state": "^0.4.2",
     "apollo-server": "^2.6.9",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "btcpay": "github:btcpayserver/node-btcpay",
     "dotenv": "^6.2.0",
     "graphql": "^0.13.2",
